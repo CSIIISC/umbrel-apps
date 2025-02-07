@@ -4,6 +4,6 @@ community_apps:
   - name: "Butlarr"
     id: "ssHome-butlarr"
     description: "Your description of the Butlarr app"
-    url: "https://github.com/CSIIISC/umbrel-apps/"
+    url: "https://github.com/TrimVis/butlarr"
     repository: "YOUR_REPOSITORY_URL"
     type: "docker"
